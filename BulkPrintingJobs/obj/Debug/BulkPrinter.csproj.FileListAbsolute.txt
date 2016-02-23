@@ -1,0 +1,27 @@
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\WindowsFormsApplicationPrint\obj\Debug\BulkPrinter.frmMain.resources
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\WindowsFormsApplicationPrint\obj\Debug\BulkPrinter.Properties.Resources.resources
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\WindowsFormsApplicationPrint\obj\Debug\BulkPrinter.csproj.GenerateResource.Cache
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\WindowsFormsApplicationPrint\bin\Debug\Bulk Jobs Printer.exe
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\WindowsFormsApplicationPrint\bin\Debug\Bulk Jobs Printer.pdb
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\WindowsFormsApplicationPrint\obj\Debug\Bulk Jobs Printer.exe
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\WindowsFormsApplicationPrint\obj\Debug\Bulk Jobs Printer.pdb
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\BulkPrintingJobs\obj\Debug\Bulk Jobs Printer.exe
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\BulkPrintingJobs\obj\Debug\Bulk Jobs Printer.pdb
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\BulkPrintingJobs\bin\Debug\Bulk Jobs Printer.exe
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\BulkPrintingJobs\bin\Debug\Bulk Jobs Printer.pdb
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\BulkPrintingJobs\obj\Debug\BulkPrinter.csprojResolveAssemblyReference.cache
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\BulkPrintingJobs\obj\Debug\BulkPrinter.frmMain.resources
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\BulkPrintingJobs\obj\Debug\BulkPrinter.Properties.Resources.resources
+I:\Odesk\Keegan Ra\WindowsFormsApplicationPrint\BulkPrintingJobs\obj\Debug\BulkPrinter.csproj.GenerateResource.Cache
+I:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\obj\Debug\Bulk Jobs Printer.exe
+I:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\obj\Debug\Bulk Jobs Printer.pdb
+I:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\bin\Debug\Bulk Jobs Printer.exe
+I:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\bin\Debug\Bulk Jobs Printer.pdb
+I:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\obj\Debug\BulkPrinter.csprojResolveAssemblyReference.cache
+I:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\obj\Debug\BulkPrinter.frmMain.resources
+I:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\obj\Debug\BulkPrinter.Properties.Resources.resources
+I:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\obj\Debug\BulkPrinter.csproj.GenerateResource.Cache
+I:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\obj\Debug\BulkPrinter.csproj.ResolveComReference.cache
+G:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\obj\Debug\BulkPrinter.csproj.ResolveComReference.cache
+G:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\obj\Debug\Bulk Jobs Printer.exe
+G:\Odesk\Keegan Ra\BulkPrintingJobs\BulkPrintingJobs\obj\Debug\Bulk Jobs Printer.pdb
